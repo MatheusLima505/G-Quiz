@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+.answers {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  row-gap: 10px;
+}
+
+.item {
+  flex: 0 0 45.00%;
+}

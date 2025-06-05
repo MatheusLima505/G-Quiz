@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "pergunta": "Qual é a capital do Brasil?",
+      "alternativas": [
+        { "id": "a", "texto": "São Paulo", "correta": false },
+        { "id": "b", "texto": "Brasília", "correta": true },
+        { "id": "c", "texto": "Rio de Janeiro", "correta": false },
+        { "id": "d", "texto": "Salvador", "correta": false }
+      ]
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual é o elemento químico representado por 'O'?",
+      "alternativas": [
+        { "id": "a", "texto": "Ouro", "correta": false },
+        { "id": "b", "texto": "Oxigênio", "correta": true },
+        { "id": "c", "texto": "Prata", "correta": false },
+        { "id": "d", "texto": "Osmônio", "correta": false }
+      ]
+    },
+    {
+      "id": 3,
+      "pergunta": "Quem escreveu 'Dom Casmurro'?",
+      "alternativas": [
+        { "id": "a", "texto": "José de Alencar", "correta": false },
+        { "id": "b", "texto": "Machado de Assis", "correta": true },
+        { "id": "c", "texto": "Carlos Drummond de Andrade", "correta": false },
+        { "id": "d", "texto": "Monteiro Lobato", "correta": false }
+      ]
+    },
+    {
+      "id": 4,
+      "pergunta": "Em que continente está localizado o Egito?",
+      "alternativas": [
+        { "id": "a", "texto": "Ásia", "correta": false },
+        { "id": "b", "texto": "Europa", "correta": false },
+        { "id": "c", "texto": "África", "correta": true },
+        { "id": "d", "texto": "América", "correta": false }
+      ]
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual linguagem é usada principalmente para estilizar páginas web?",
+      "alternativas": [
+        { "id": "a", "texto": "JavaScript", "correta": false },
+        { "id": "b", "texto": "HTML", "correta": false },
+        { "id": "c", "texto": "CSS", "correta": true },
+        { "id": "d", "texto": "Python", "correta": false }
+      ]
+    }
+  ]
+  
