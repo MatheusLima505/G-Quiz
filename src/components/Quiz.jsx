@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import perguntas from "./../assets/questions.json";
 
-function Quiz() {
+function Quiz({handleGameover}) {
   const [thisQuestion, setThisQuestion] = useState(null);
 
   function handleResposta(alt) {
@@ -10,7 +10,7 @@ function Quiz() {
       setThisQuestion(perguntas[QuestionIndex]);
     }
     if (alt == false) {
-        alert("foase")
+      handleGameover()
     }
   }
 
