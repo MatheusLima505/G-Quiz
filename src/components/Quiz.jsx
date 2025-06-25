@@ -1,13 +1,19 @@
 import { useEffect, useState } from "react";
-import perguntas from "./../assets/questions.json";
+import perguntasImport from "./../assets/questions.json";
 
-function Quiz({handleGameover}) {
+function Quiz({handleGameover, pontos, setPontos}) {
   const [thisQuestion, setThisQuestion] = useState(null);
+  const [Blacklist, setBlacklist] = useState([])
+  const [perguntas, setPerguntas] = useState(perguntasImport)
 
   function handleResposta(alt) {
     if (alt == true) {
       const QuestionIndex = Math.floor(Math.random() * perguntas.length);
-      setThisQuestion(perguntas[QuestionIndex]);
+      const perguntaSelecionada = perguntas[QuestionIndex]
+      setThisQuestion(perguntaSelecionada);
+      setPerguntas(perguntas.filter(item => item.id !== perguntaSelecionada.id))
+      console.log(perguntas,"handleResposta")
+      setPontos(pontos+1)
     }
     if (alt == false) {
       handleGameover()
@@ -16,7 +22,10 @@ function Quiz({handleGameover}) {
 
   useEffect(() => {
     const QuestionIndex = Math.floor(Math.random() * perguntas.length);
-    setThisQuestion(perguntas[QuestionIndex]);
+    const perguntaSelecionada = perguntas[QuestionIndex]
+    setThisQuestion(perguntaSelecionada);
+    setPerguntas(perguntas.filter(item => item.id !== perguntaSelecionada.id))
+    console.log(perguntas,"useEffect")
   }, []);
 
   if (!thisQuestion) return <p>Carregando pergunta...</p>;
@@ -24,6 +33,7 @@ function Quiz({handleGameover}) {
   return (
     <>
       <h1>quiz time</h1>
+      <h3>{pontos}</h3>
       <div className="question">
         <h2>{thisQuestion.pergunta}</h2>
       </div>

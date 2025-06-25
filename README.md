@@ -1,1 +1,0 @@
-as vezes o programa vai parecer que nao sai da mesma pergunta, isso é pq ele vai estar pegando a mesma pergunta

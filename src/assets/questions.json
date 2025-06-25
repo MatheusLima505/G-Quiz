@@ -48,6 +48,354 @@
         { "id": "c", "texto": "CSS", "correta": true },
         { "id": "d", "texto": "Python", "correta": false }
       ]
+    },{
+      "id": 6,
+      "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+      "alternativas": [
+        { "id": "a", "texto": "Júpiter", "correta": false },
+        { "id": "b", "texto": "Vênus", "correta": false },
+        { "id": "c", "texto": "Marte", "correta": true },
+        { "id": "d", "texto": "Saturno", "correta": false }
+      ]
+    },
+    {
+      "id": 7,
+      "pergunta": "Quantos lados tem um hexágono?",
+      "alternativas": [
+        { "id": "a", "texto": "Cinco", "correta": false },
+        { "id": "b", "texto": "Seis", "correta": true },
+        { "id": "c", "texto": "Sete", "correta": false },
+        { "id": "d", "texto": "Oito", "correta": false }
+      ]
+    },
+    {
+      "id": 8,
+      "pergunta": "Quem pintou a Mona Lisa?",
+      "alternativas": [
+        { "id": "a", "texto": "Leonardo da Vinci", "correta": true },
+        { "id": "b", "texto": "Michelangelo", "correta": false },
+        { "id": "c", "texto": "Van Gogh", "correta": false },
+        { "id": "d", "texto": "Pablo Picasso", "correta": false }
+      ]
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual é a fórmula da água?",
+      "alternativas": [
+        { "id": "a", "texto": "CO₂", "correta": false },
+        { "id": "b", "texto": "H₂O", "correta": true },
+        { "id": "c", "texto": "NaCl", "correta": false },
+        { "id": "d", "texto": "CH₄", "correta": false }
+      ]
+    },
+    {
+      "id": 10,
+      "pergunta": "Qual é o maior oceano do planeta?",
+      "alternativas": [
+        { "id": "a", "texto": "Atlântico", "correta": false },
+        { "id": "b", "texto": "Índico", "correta": false },
+        { "id": "c", "texto": "Ártico", "correta": false },
+        { "id": "d", "texto": "Pacífico", "correta": true }
+      ]
+    },{
+      "id": 11,
+      "pergunta": "Quem foi o primeiro presidente do Brasil?",
+      "alternativas": [
+        { "id": "a", "texto": "Getúlio Vargas", "correta": false },
+        { "id": "b", "texto": "Deodoro da Fonseca", "correta": true },
+        { "id": "c", "texto": "Juscelino Kubitschek", "correta": false },
+        { "id": "d", "texto": "Dom Pedro II", "correta": false }
+      ]
+    },
+    {
+      "id": 12,
+      "pergunta": "Qual é o valor de π (pi) aproximado?",
+      "alternativas": [
+        { "id": "a", "texto": "2,14", "correta": false },
+        { "id": "b", "texto": "3,14", "correta": true },
+        { "id": "c", "texto": "1,41", "correta": false },
+        { "id": "d", "texto": "4,13", "correta": false }
+      ]
+    },
+    {
+      "id": 13,
+      "pergunta": "Qual o maior animal terrestre?",
+      "alternativas": [
+        { "id": "a", "texto": "Hipopótamo", "correta": false },
+        { "id": "b", "texto": "Girafa", "correta": false },
+        { "id": "c", "texto": "Elefante africano", "correta": true },
+        { "id": "d", "texto": "Rinoceronte", "correta": false }
+      ]
+    },
+    {
+      "id": 14,
+      "pergunta": "Qual desses é um substantivo abstrato?",
+      "alternativas": [
+        { "id": "a", "texto": "Cachorro", "correta": false },
+        { "id": "b", "texto": "Mesa", "correta": false },
+        { "id": "c", "texto": "Amor", "correta": true },
+        { "id": "d", "texto": "Janela", "correta": false }
+      ]
+    },
+    {
+      "id": 15,
+      "pergunta": "Qual país tem o formato aproximado de uma bota?",
+      "alternativas": [
+        { "id": "a", "texto": "França", "correta": false },
+        { "id": "b", "texto": "Portugal", "correta": false },
+        { "id": "c", "texto": "Itália", "correta": true },
+        { "id": "d", "texto": "Espanha", "correta": false }
+      ]
+    },
+    {
+      "id": 16,
+      "pergunta": "Qual é a unidade de medida da corrente elétrica?",
+      "alternativas": [
+        { "id": "a", "texto": "Ohm", "correta": false },
+        { "id": "b", "texto": "Volt", "correta": false },
+        { "id": "c", "texto": "Ampère", "correta": true },
+        { "id": "d", "texto": "Watt", "correta": false }
+      ]
+    },
+    {
+      "id": 17,
+      "pergunta": "Quem descobriu o Brasil?",
+      "alternativas": [
+        { "id": "a", "texto": "Cristóvão Colombo", "correta": false },
+        { "id": "b", "texto": "Pedro Álvares Cabral", "correta": true },
+        { "id": "c", "texto": "Vasco da Gama", "correta": false },
+        { "id": "d", "texto": "Fernão de Magalhães", "correta": false }
+      ]
+    },
+    {
+      "id": 18,
+      "pergunta": "Quantas casas decimais tem o número 0,007?",
+      "alternativas": [
+        { "id": "a", "texto": "1", "correta": false },
+        { "id": "b", "texto": "2", "correta": false },
+        { "id": "c", "texto": "3", "correta": true },
+        { "id": "d", "texto": "4", "correta": false }
+      ]
+    },
+    {
+      "id": 19,
+      "pergunta": "Qual é o menor país do mundo?",
+      "alternativas": [
+        { "id": "a", "texto": "Mônaco", "correta": false },
+        { "id": "b", "texto": "Malta", "correta": false },
+        { "id": "c", "texto": "Vaticano", "correta": true },
+        { "id": "d", "texto": "San Marino", "correta": false }
+      ]
+    },
+    {
+      "id": 20,
+      "pergunta": "Quem foi Albert Einstein?",
+      "alternativas": [
+        { "id": "a", "texto": "Físico", "correta": true },
+        { "id": "b", "texto": "Músico", "correta": false },
+        { "id": "c", "texto": "Médico", "correta": false },
+        { "id": "d", "texto": "Arquiteto", "correta": false }
+      ]
+    },
+    {
+      "id": 21,
+      "pergunta": "Qual é o principal rio da Amazônia?",
+      "alternativas": [
+        { "id": "a", "texto": "Rio São Francisco", "correta": false },
+        { "id": "b", "texto": "Rio Amazonas", "correta": true },
+        { "id": "c", "texto": "Rio Tocantins", "correta": false },
+        { "id": "d", "texto": "Rio Paraná", "correta": false }
+      ]
+    },
+    {
+      "id": 22,
+      "pergunta": "Em que ano o homem pisou na Lua pela primeira vez?",
+      "alternativas": [
+        { "id": "a", "texto": "1965", "correta": false },
+        { "id": "b", "texto": "1969", "correta": true },
+        { "id": "c", "texto": "1972", "correta": false },
+        { "id": "d", "texto": "1959", "correta": false }
+      ]
+    },
+    {
+      "id": 23,
+      "pergunta": "Quem é o autor de 'A Hora da Estrela'?",
+      "alternativas": [
+        { "id": "a", "texto": "Clarice Lispector", "correta": true },
+        { "id": "b", "texto": "Cecília Meireles", "correta": false },
+        { "id": "c", "texto": "Lygia Fagundes Telles", "correta": false },
+        { "id": "d", "texto": "Rachel de Queiroz", "correta": false }
+      ]
+    },
+    {
+      "id": 24,
+      "pergunta": "Qual é o resultado de 9 × 7?",
+      "alternativas": [
+        { "id": "a", "texto": "63", "correta": true },
+        { "id": "b", "texto": "56", "correta": false },
+        { "id": "c", "texto": "72", "correta": false },
+        { "id": "d", "texto": "49", "correta": false }
+      ]
+    },
+    {
+      "id": 25,
+      "pergunta": "Quantas cordas tem um violão tradicional?",
+      "alternativas": [
+        { "id": "a", "texto": "4", "correta": false },
+        { "id": "b", "texto": "5", "correta": false },
+        { "id": "c", "texto": "6", "correta": true },
+        { "id": "d", "texto": "7", "correta": false }
+      ]
+    },
+    {
+      "id": 26,
+      "pergunta": "Quem fundou o Facebook?",
+      "alternativas": [
+        { "id": "a", "texto": "Elon Musk", "correta": false },
+        { "id": "b", "texto": "Bill Gates", "correta": false },
+        { "id": "c", "texto": "Steve Jobs", "correta": false },
+        { "id": "d", "texto": "Mark Zuckerberg", "correta": true }
+      ]
+    },
+    {
+      "id": 27,
+      "pergunta": "O que significa WWW na internet?",
+      "alternativas": [
+        { "id": "a", "texto": "World Web Way", "correta": false },
+        { "id": "b", "texto": "World Wide Web", "correta": true },
+        { "id": "c", "texto": "Web World Window", "correta": false },
+        { "id": "d", "texto": "Wide Web World", "correta": false }
+      ]
+    },
+    {
+      "id": 28,
+      "pergunta": "Qual é o símbolo químico do ferro?",
+      "alternativas": [
+        { "id": "a", "texto": "Fe", "correta": true },
+        { "id": "b", "texto": "Ir", "correta": false },
+        { "id": "c", "texto": "Fr", "correta": false },
+        { "id": "d", "texto": "Fi", "correta": false }
+      ]
+    },
+    {
+      "id": 29,
+      "pergunta": "Qual é o maior órgão do corpo humano?",
+      "alternativas": [
+        { "id": "a", "texto": "Fígado", "correta": false },
+        { "id": "b", "texto": "Pulmão", "correta": false },
+        { "id": "c", "texto": "Pele", "correta": true },
+        { "id": "d", "texto": "Coração", "correta": false }
+      ]
+    },
+    {
+      "id": 30,
+      "pergunta": "Qual desses animais é um mamífero?",
+      "alternativas": [
+        { "id": "a", "texto": "Tubarão", "correta": false },
+        { "id": "b", "texto": "Golfinho", "correta": true },
+        { "id": "c", "texto": "Cobra", "correta": false },
+        { "id": "d", "texto": "Avestruz", "correta": false }
+      ]
+    },
+    {
+      "id": 31,
+      "pergunta": "Quantos segundos há em um minuto?",
+      "alternativas": [
+        { "id": "a", "texto": "100", "correta": false },
+        { "id": "b", "texto": "30", "correta": false },
+        { "id": "c", "texto": "60", "correta": true },
+        { "id": "d", "texto": "90", "correta": false }
+      ]
+    },
+    {
+      "id": 32,
+      "pergunta": "Quem é conhecido como o Rei do Futebol?",
+      "alternativas": [
+        { "id": "a", "texto": "Zico", "correta": false },
+        { "id": "b", "texto": "Pelé", "correta": true },
+        { "id": "c", "texto": "Romário", "correta": false },
+        { "id": "d", "texto": "Neymar", "correta": false }
+      ]
+    },
+    {
+      "id": 33,
+      "pergunta": "Qual é a capital da Argentina?",
+      "alternativas": [
+        { "id": "a", "texto": "Santiago", "correta": false },
+        { "id": "b", "texto": "Buenos Aires", "correta": true },
+        { "id": "c", "texto": "Lima", "correta": false },
+        { "id": "d", "texto": "Montevidéu", "correta": false }
+      ]
+    },
+    {
+      "id": 34,
+      "pergunta": "Quem foi o criador da teoria da evolução?",
+      "alternativas": [
+        { "id": "a", "texto": "Galileu Galilei", "correta": false },
+        { "id": "b", "texto": "Isaac Newton", "correta": false },
+        { "id": "c", "texto": "Charles Darwin", "correta": true },
+        { "id": "d", "texto": "Louis Pasteur", "correta": false }
+      ]
+    },
+    {
+      "id": 35,
+      "pergunta": "O que é um triângulo equilátero?",
+      "alternativas": [
+        { "id": "a", "texto": "Tem dois lados iguais", "correta": false },
+        { "id": "b", "texto": "Tem três lados diferentes", "correta": false },
+        { "id": "c", "texto": "Tem todos os lados iguais", "correta": true },
+        { "id": "d", "texto": "Tem quatro lados", "correta": false }
+      ]
+    },
+    {
+      "id": 36,
+      "pergunta": "Qual é o plural de 'cidadão'?",
+      "alternativas": [
+        { "id": "a", "texto": "Cidadões", "correta": false },
+        { "id": "b", "texto": "Cidadãos", "correta": true },
+        { "id": "c", "texto": "Cidadães", "correta": false },
+        { "id": "d", "texto": "Cidades", "correta": false }
+      ]
+    },
+    {
+      "id": 37,
+      "pergunta": "Qual é o gás essencial para a respiração humana?",
+      "alternativas": [
+        { "id": "a", "texto": "Nitrogênio", "correta": false },
+        { "id": "b", "texto": "Oxigênio", "correta": true },
+        { "id": "c", "texto": "Hidrogênio", "correta": false },
+        { "id": "d", "texto": "Dióxido de carbono", "correta": false }
+      ]
+    },
+    {
+      "id": 38,
+      "pergunta": "Quantos estados tem o Brasil?",
+      "alternativas": [
+        { "id": "a", "texto": "25", "correta": false },
+        { "id": "b", "texto": "26", "correta": true },
+        { "id": "c", "texto": "27", "correta": false },
+        { "id": "d", "texto": "24", "correta": false }
+      ]
+    },
+    {
+      "id": 39,
+      "pergunta": "Qual é a capital do Canadá?",
+      "alternativas": [
+        { "id": "a", "texto": "Toronto", "correta": false },
+        { "id": "b", "texto": "Vancouver", "correta": false },
+        { "id": "c", "texto": "Ottawa", "correta": true },
+        { "id": "d", "texto": "Montreal", "correta": false }
+      ]
+    },
+    {
+      "id": 40,
+      "pergunta": "Qual dessas figuras tem quatro lados iguais e quatro ângulos retos?",
+      "alternativas": [
+        { "id": "a", "texto": "Retângulo", "correta": false },
+        { "id": "b", "texto": "Trapézio", "correta": false },
+        { "id": "c", "texto": "Quadrado", "correta": true },
+        { "id": "d", "texto": "Paralelogramo", "correta": false }
+      ]
     }
   ]
   
