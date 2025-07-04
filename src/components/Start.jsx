@@ -3,7 +3,7 @@ function Start({ handleStart, handleUnlimited }){
         <>
         <h1>G-Quiz</h1>
         <p>por Matheus Araujo de Lima</p>
-        <button onClick={handleStart}>Start</button>
+        <button onClick={handleStart}>Quiz</button>
         <button onClick={handleUnlimited}>Ilimitado</button>
         </>
     )

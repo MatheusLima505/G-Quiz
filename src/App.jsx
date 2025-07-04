@@ -35,7 +35,7 @@ function App() {
   }, [pontos, fase]);
 
   return (
-    <>
+    <div className="game">
       {fase === "Start" ? (
         <Start
           handleStart={handleStart}
@@ -58,7 +58,7 @@ function App() {
       ) : fase === "Congrat" ? (
         <Congrat></Congrat>
       ) : null}
-    </>
+    </div>
   );
 }
 

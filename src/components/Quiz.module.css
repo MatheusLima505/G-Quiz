@@ -1,0 +1,25 @@
+.main {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas:
+    "title title title"
+    "countdown countdown pontos"
+    "questionCont questionCont questionCont"
+}
+
+.countdown{
+    grid-area: countdown;
+}
+
+.pontos{
+    grid-area: pontos;
+}
+
+.questionCont{
+    grid-area: questionCont;
+}
+
+.title{
+    grid-area: title;
+}
